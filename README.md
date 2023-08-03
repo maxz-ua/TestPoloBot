@@ -1,3 +1,2 @@
 # TestPoloBot
-test.git
-Это тестовый залив пары классов на гитхаб, сами по себе они нчиего не делают но запустить график и смотреть котировки возможно.
+This repository contains a set of Java classes that enable you to build interactive charts and display real-time quotes, empowering you to make informed trading decisions."
